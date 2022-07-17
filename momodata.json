@@ -4,12 +4,12 @@
           
             "network": "admob",
             
-            "max_ban": "41520d44e3d06b49",
-            "max_int": "261588b3776ba31b",
+            "max_ban": "",
+            "max_int": "",
             
-            "is_app_key": "2386892364823",
-            "is_ban": "2386892364823",
-            "is_int": "2386892364823",
+            "is_app_key": "",
+            "is_ban": "",
+            "is_int": "",
             
             "admob_ban": "ca-app-pub-4647107744558753/1799964309",
             "admob_int": "ca-app-pub-4647107744558753/4504064988",
