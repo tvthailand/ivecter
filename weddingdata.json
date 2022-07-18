@@ -4,37 +4,37 @@
           
             "network": "admob",
             
-            "max_ban": "41520d44e3d06b49",
-            "max_int": "261588b3776ba31b",
+            "max_ban": "",
+            "max_int": "",
             
-            "is_app_key": "2386892364823",
-            "is_ban": "2386892364823",
-            "is_int": "2386892364823",
+            "is_app_key": "",
+            "is_ban": "",
+            "is_int": "",
             
-            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
-            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            "admob_ban": "",
+            "admob_int": "",
 
-            "name": "Momo",
-            "photo": "https://www.dictionary.com/e/wp-content/uploads/2019/03/Momo-Challenge-2-236x300.jpg",
-            "voice": "https://9asso.github.io/apps/laugh.wav",
-            "video": "https://assets.mixkit.co/videos/preview/mixkit-blogging-girl-down-the-street-with-his-cell-34487-large.mp4",
+            "name": "Wedding Dream",
+            "photo": "",
+            "voice": "",
+            "video": "",
             "stories": [
-                "https://i.kym-cdn.com/photos/images/newsfeed/001/396/293/d6e.gif",
-                "https://i.kym-cdn.com/photos/images/newsfeed/001/466/129/3f7.jpg",
-                "https://i.kym-cdn.com/photos/images/newsfeed/001/392/195/56a.png",
-                "https://pm1.narvii.com/6919/8f80c35ee71165a22f109e2ca5cf345d23077209r1-640-828v2_hq.jpg",
-                "https://i.imgur.com/XiTALZT.jpeg",
-                "https://64.media.tumblr.com/982afb79b5a0f5eb0d8c7770363ef145/2ef1345c490566ef-07/s1280x1920/efbbd327bb250bf33b15debebcfaac8527038074.jpg"
+                "https://lh3.googleusercontent.com/3EEolp63n-YIdJNpU2UK71ewtgsasLzSHzsLU3YoYon9_s3v6GBvTKiFWpthP0XlKLopVvQDLEzDohTvqQWbe4uzlHOmqfBaJXpk=w266",
+                "https://lh3.googleusercontent.com/Ku88RF9a5ft2G2UBZCbJf618DSAPOHN3rb7dti4ApepIWuwUIwkDTIwysEDVAwJAHU7XCNiHNCcLYFOtoM_mXAoLOVMwSx3tgKcJ1Q=w266",
+                "https://lh3.googleusercontent.com/DTZXnDMf3B_IStZTY_wr1im7qg-4mV56JAa4NqB4Hadzb8ZMN13ZrBRtVGrVUVs05aLaUwpjfLCmsk5VE19Y69mngeIKx5o8ohMZ=w266",
+                "https://lh3.googleusercontent.com/mNhieq61jol3KxPS29Lj1nu2R9ZtGRUR3_h9RfgYVsKVfNYdZ0vQyJNhqrwTjV0BvdH7dtmC7xChlKYGmjb8vhIqGwTcvPSI9TJkGw=w266",
+                "https://lh3.googleusercontent.com/AP3kTZ8p53u3lnCTWck_ewBMm5gexwB6ZAaCMDl4LlOkBki7zJa7zeMg_7o3rCHwVCb_Af-ACV52HTdO81JbbLFqIQj8jO582EjTkNI=w266g",
+                "https://lh3.googleusercontent.com/PJL0oTNivn8A0bCgwSxEL4tBgfBc9RqkF-G9-CghK5bFpsbhSGUOG3zTqkcrcIjRgpBQL7_wE1qAqDewxTYMhml72hs5Ge6eYBytgQ=w266"
             ],
             "wallpapers": [
-                "https://vibirai.ru/image/1507388.jpg",
-                "https://i.dailymail.co.uk/i/newpix/2018/08/02/00/4EC075BF00000578-0-image-a-68_1533164623557.jpg",
-                "https://i.kym-cdn.com/photos/images/newsfeed/001/396/293/d6e.gif",
-                "https://i.kym-cdn.com/photos/images/newsfeed/001/466/129/3f7.jpg",
-                "https://i.kym-cdn.com/photos/images/newsfeed/001/392/195/56a.png",
-                "https://pm1.narvii.com/6919/8f80c35ee71165a22f109e2ca5cf345d23077209r1-640-828v2_hq.jpg",
-                "https://i.imgur.com/XiTALZT.jpeg",
-                "https://64.media.tumblr.com/982afb79b5a0f5eb0d8c7770363ef145/2ef1345c490566ef-07/s1280x1920/efbbd327bb250bf33b15debebcfaac8527038074.jpg"
+                "https://lh3.googleusercontent.com/TeKKwRvspcsIMRxmDuF3Z_HcpbW0UxE4K3X3q2EIadzRZ12ufINiOxT7tbENKsVetj9dKVpCrFkiEMQ9L5ocypGVabzABaEPToBJ=w418",
+                "https://lh3.googleusercontent.com/KyGgFYHsUgV1_R2t3bPNUZ5EyQ9Zj_nR22aX0C_xqFZANPIWcYmgr5qiQ6evlMsIb3EmclVfSqpBT3JAz37tUCC3FKA0jaTyZJvrZg=w418",
+                "https://lh3.googleusercontent.com/hO3tNO1WDFBIkCI61pqylv7Dkd_ASvInKAu_rKMhnl1-GfK7Ds1mH3GvMR-eyVYY-ghpeNXXxJYtubIJHlLL6xS5IZzIbp7fZp2I=w418",
+                "https://lh3.googleusercontent.com/xh7gVC0k8QABhboFeDhuO3FKcSEXwCEbfN0yP8nh5ZpA3ZBXYVEusK4KRm47mYRCFOrAeQGmPpnFcLR0y1zryITpHA-O1WaAG4_ZhBY=w418",
+                "https://lh3.googleusercontent.com/5PrWOqc5RPnpVBbXADbA67Uo2Ia24Nf0SGTjDgJYzDkge_hkelNs5BHCUza_k2T6B2EL-WtAA8eVYU8Z1Ku75_vG7B_7Z23VGK6Zrw=w418",
+                "https://lh3.googleusercontent.com/rGAykd-bB-xOXcMPYcacYiAcicrsy3jyxu4gXN-zGr0YCjReN7xbcLd3xqcsih5o1Fy0NxfAfei3sKLKqsI7QsunPPO3_i4-Vthe_A=w418",
+                "https://lh3.googleusercontent.com/KxOwSougd1S3GguXjlVzHG0GpPlHzqbbhYqf4rFgcexk9foTU5_zXxW-2T7py-i6DaKGRCH28jrJ48zXVQ4amYpH32vjRmMGcMuN=w418",
+                "https://lh3.googleusercontent.com/OU-MgXwW8eiD53hg12enqH1QeyKgYv33fRVbQHTMv2CDn4yq3p-RURpHu1KLll9Pbqa2TkfndeFGsBTJChfwny53UzSeXeke8OdE3w=w418"
             ]
           
         }
